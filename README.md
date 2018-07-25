@@ -28,3 +28,5 @@ In this competition, your goal is to correctly identify digits from a dataset of
 A decision tree is a tree where each node represents a feature(attribute), each link(branch) represents a decision(rule) and each leaf represents an outcome(categorical or continues value).
 
 The whole idea is to create a tree like this for the entire data and process a single outcome at every leaf(or minimize the error in every leaf).
+
+#### Download Train and Test set from the link as it is more than 25MB
